@@ -1,0 +1,136 @@
+{
+  "bbRegistrations": [
+    {
+      "name": "ChiranjeeviBB",
+      "contactPerson": "Bhavanal",
+      "phone": "1234567890",
+      "email": "bhavanalagadapati@gmail.com",
+      "address": "Sri lakshmi nilayam,rr gardens,high tension wires road",
+      "city": "Vijayawada",
+      "state": "Andhra Pradesh",
+      "password": "bhavi",
+      "id": "b20c"
+    },
+    {
+      "name": "bhavana_lagadapati",
+      "contactPerson": "L_keerthana",
+      "phone": "1234567890",
+      "email": "bhavi@gmail.com",
+      "address": "Sri lakshmi nilayam,rr gardens,high tension wires road",
+      "city": "Vijayawada",
+      "state": "Andhra Pradesh",
+      "password": "bhavana",
+      "id": "d229"
+    },
+    {
+      "id": "771e",
+      "name": "keerthana",
+      "password": "keer",
+      "contactPerson": "Bhavana",
+      "phone": "1234567890",
+      "email": "keerthana@gmail.com",
+      "address": "Sri lakshmi nilayam,rr gardens,high tension wires road",
+      "city": "Vijayawada",
+      "state": "Andhra Pradesh"
+    }
+  ],
+  "bloodStock": [
+    {
+      "bloodBankId": "d229",
+      "stock": {
+        "A+": "8",
+        "A-": "10",
+        "B+": "9",
+        "B-": "7",
+        "O+": "15",
+        "O-": "12",
+        "AB+": "4",
+        "AB-": "2"
+      },
+      "id": "53de"
+    },
+    {
+      "bloodBankId": "b20c",
+      "stock": {
+        "A+": "6",
+        "A-": "11",
+        "B+": "12",
+        "B-": "9",
+        "O+": "13",
+        "O-": "7",
+        "AB+": "8",
+        "AB-": "5"
+      },
+      "id": "b301"
+    }
+  ],
+  "donors": [
+    {
+      "id": "a350",
+      "name": "Bhavana",
+      "age": "45",
+      "phone": "1234567890",
+      "email": "bhavi@gmail.com",
+      "bloodType": "A+",
+      "bloodBankId": "b20c"
+    },
+    {
+      "id": "2605",
+      "name": "keerthana",
+      "age": "20",
+      "phone": "1234567890",
+      "email": "keerthana@gmail.com",
+      "bloodType": "AB-",
+      "bloodBankId": "d229"
+    }
+  ],
+  "campaigns": [
+    {
+      "id": "ff33",
+      "name": "holi",
+      "date": "2025-03-14",
+      "time": "20:00",
+      "location": "pvpsit",
+      "description": "rthrtjrtjkejt5r",
+      "bloodBankId": "b20c"
+    },
+    {
+      "id": "862a",
+      "name": "gandhi jayanthi",
+      "date": "2025-10-02",
+      "time": "10:30",
+      "location": "benz circle",
+      "description": "shtjhytjkejr7yjgbdfnjfyj",
+      "bloodBankId": "d229"
+    }
+  ],
+  "campRegisters": [
+    {
+      "id": "a191",
+      "name": "Bhavana",
+      "age": 19,
+      "bloodGroup": "O+",
+      "contact": "6300345395",
+      "email": "bhavana@gmail.com",
+      "campaignId": "ff33"
+    },
+    {
+      "id": "3f86",
+      "name": "keerthana",
+      "age": 20,
+      "bloodGroup": "O+",
+      "contact": "1234567890",
+      "email": "keerthana@gmail.com",
+      "campaignId": "862a"
+    },
+    {
+      "id": "5525",
+      "name": "chaitrika",
+      "age": 21,
+      "bloodGroup": "A+",
+      "contact": "1234567890",
+      "email": "bhavi@gmail.com",
+      "campaignId": "ff33"
+    }
+  ]
+}
